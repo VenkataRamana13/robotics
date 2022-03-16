@@ -1,0 +1,7 @@
+true analog doesn't exist in RaPi thus, we use PWM
+communication - asynchronous serial and I2C
+breakout boards
+relay - activated by an electrical signal - kind of like a mosfet
+relay - switch and an electromagnet
+led pins and detection of current require really less current. Use high resistane to prevent burning. 
+
